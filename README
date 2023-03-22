@@ -3,4 +3,3 @@ subfunctions.R: subfunctions applied in simulations
 seed.txt: random seeds used in simulations
 nlst_nhis.R: main functions to estimate LGY using NLST and NHIS 
 subfunctions2.R: subfunctions applied in data application
-
