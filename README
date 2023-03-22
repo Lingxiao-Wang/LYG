@@ -3,8 +3,4 @@ subfunctions.R: subfunctions applied in simulations
 seed.txt: random seeds used in simulations
 nlst_nhis.R: main functions to estimate LGY using NLST and NHIS 
 subfunctions2.R: subfunctions applied in data application
-covariates comparison.R: Comparing covariate distributions in NLST, and NHIS
-tables and plots.R: generating tables and plots in Wang et al. （2023）
-prsn.csv： NLST data
-nhis97_01.imputed.1.RData:  NHIS data 1997-2001 (with imputation)
-nhis_15_18_imputed_1.RData: NHIS data 2015-2018 (with imputation)
+
