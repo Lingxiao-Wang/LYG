@@ -1,3 +1,6 @@
+LYG_0.0.3.tar.gz: LYG package for MACOS
+LYG_0.0.3.zip: LYP package for Windows
+LYG-manual.pdf: User manual for LYG package
 simulation.R: main functions to conduct simulations
 subfunctions.R: subfunctions applied in simulations
 seed.txt: random seeds used in simulations
